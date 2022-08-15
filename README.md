@@ -1,7 +1,7 @@
 # SpeedMarquee
 
-> An Android library which provides textview with marquee behaviour along the option to
-> configure marquee speed & other options.
+> An Android library which provides textview with marquee behaviour with option to
+> configure marquee speed & other configurations.
 >> The default TextView in Android doesn't allow to update marquee's speed. 
 
 
