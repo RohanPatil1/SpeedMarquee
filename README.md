@@ -1,5 +1,10 @@
 # SpeedMarquee
 
+> An Android library which provides textview with marquee behaviour along the option to
+> configure marquee speed & other options.
+>> The default TextView in Android doesn't allow to update marquee's speed. 
+
+
 
 
 ## Installation
@@ -79,5 +84,5 @@ allprojects {
 
 ## Demo
 
-<img src="https://github.com/RohanPatil1/SpeedMarquee/blob/master/demo.gif" width="450" height="800" />
+<img src="https://github.com/RohanPatil1/SpeedMarquee/blob/master/demo.gif" width="360" height="777" />
 
