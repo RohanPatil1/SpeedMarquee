@@ -77,3 +77,7 @@ allprojects {
         })
 ```
 
+## Demo
+
+<img src="https://github.com/RohanPatil1/SpeedMarquee/blob/master/demo.gif" width="450" height="800" />
+
