@@ -1,4 +1,4 @@
-package com.rohan.speedmarquee
+package com.rohan.speed_marquee_sample
 
 import org.junit.Test
 
