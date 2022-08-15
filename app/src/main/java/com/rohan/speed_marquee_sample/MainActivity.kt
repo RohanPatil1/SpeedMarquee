@@ -10,11 +10,11 @@ import com.rohan.speed_marquee.SpeedMarquee
 import speed_marquee_sample.R
 
 class MainActivity : AppCompatActivity() {
+
     @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
 
         /**
          * Example to Utilize pauseScroll() & resumeScroll()
@@ -33,13 +33,13 @@ class MainActivity : AppCompatActivity() {
             return@OnTouchListener true
         })
 
-
         /**
          * Example to setSpeed()
          */
         val marqueeTextView3 = findViewById<SpeedMarquee>(R.id.marqueeTextView3)
-
         findViewById<Button>(R.id.speedButton).setOnClickListener {
+
+            //Increment Text3's speed by 100.0
             marqueeTextView3.setSpeed(marqueeTextView3.getSpeed() + 100.0f)
         }
     }
