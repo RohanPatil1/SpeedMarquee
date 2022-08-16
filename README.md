@@ -24,7 +24,7 @@ allprojects {
 > Step 2. Add the dependency
   ```gradle
     dependencies {
-	        implementation 'com.github.RohanPatil1:SpeedMarquee:Tag'
+	        implementation 'com.github.RohanPatil1:SpeedMarquee:1.0.0'
 	}
   ```
 
